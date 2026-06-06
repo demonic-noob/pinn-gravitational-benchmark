@@ -12,3 +12,7 @@ In this project, I aim to compare PINN approach against other numerical and anal
 2. Make a virtual environment and activate it.
 3. Install dependencies using:
    pip install -r requirements.txt
+
+## Results
+![Results](results.png)
+

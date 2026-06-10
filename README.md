@@ -14,7 +14,7 @@ In this project, I aim to compare PINN approach against other numerical and anal
    pip install -r requirements.txt
 
 ## Results
-![Results](results.png)
+![Results](spectral_analysis.png)
 
 ## Citation
 If you use this code for your research, please cite:

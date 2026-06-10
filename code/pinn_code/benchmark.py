@@ -94,3 +94,11 @@ df = pd.DataFrame({
 })
 df.to_csv("benchmark_results.csv", index=False)
 print("\nMetrics compiled and saved to benchmark_results.csv")
+
+raw_data = pd.DataFrame({
+    'r': r_test.flatten(),
+    'numerical_phi': phi_num_pert.flatten(),
+    'pinn_phi': phi_pinn.flatten()
+})
+raw_data.to_csv("/home/sachins/myproject/research_project/raw_data.csv", index=False)
+print("Raw data exported for spectral analysis!")

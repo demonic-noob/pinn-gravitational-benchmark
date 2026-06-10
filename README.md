@@ -16,3 +16,7 @@ In this project, I aim to compare PINN approach against other numerical and anal
 ## Results
 ![Results](results.png)
 
+## Citation
+If you use this code for your research, please cite:
+"Benchmarking Physics-Informed Neural Networks for Gravitational Potential Modeling," Sachin S. (2026).
+
